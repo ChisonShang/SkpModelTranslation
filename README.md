@@ -1,4 +1,4 @@
-# SKPModelTranslation
+# SkpModelTranslation
 
 Skp format model translation using SketchUp C API.
 
