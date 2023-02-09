@@ -1,2 +1,2 @@
 # SKPModelTranslation
-Translate the .skp model using SketchUp C API
+.skp model translation using SketchUp C API
